@@ -18,4 +18,4 @@ Instagram pixelart
 [![CSS]( 	https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)]()
 [![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
 
-Estou estudando Sistemas de Informação e estou atualmente no terceiro período do curso. Também sou apaixonado por pixelart
+Estou cursando Sistemas de Informação e estou atualmente no terceiro período do curso. Também sou apaixonado por pixelart
